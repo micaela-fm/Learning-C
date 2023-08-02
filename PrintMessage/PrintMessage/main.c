@@ -1,6 +1,6 @@
 /*
 *  File: main.c
-*  Author: Micaela Macatrao
+*  Author: Micaela FM
 */
 
 #include <stdio.h>
