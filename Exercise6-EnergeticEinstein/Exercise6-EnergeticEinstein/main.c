@@ -22,16 +22,15 @@ int main(int argc, char** argv)
 	float mass; 
 	float energy; 
 	
+// Problem 2 – Get mass from user and calculate energy
 	// Print for and scan mass
-	printf("Enter mass (kg): "); 
-	scanf("%f", &mass); 
-	printf("\n"); 
+	printf("Enter mass (kg): ");
+	scanf("%f", &mass);
+	printf("\n");
 
 	// Print energy
-	energy = mass * powf((float)SPEED_OF_LIGHT, 2); 
-	printf("Energy = %f", energy); 
-
-// Problem 2 – Get mass from user and calculate energy
+	energy = mass * powf((float)SPEED_OF_LIGHT, 2);
+	printf("Energy = %f J", energy);
 
 // Problem 3 – Think about what it all means
 
