@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691254796 source:c:\users\micae\desktop\learningc\madlibsgame\main.c
+	<stdio.h>
+	<stdlib.h>
+
